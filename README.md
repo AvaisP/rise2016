@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<title>Fintech Webapp</title>
 
-<xmp theme="united" style="display:none;">
 # README.md
 
 ## Barclays Rise Hackathon 2016
@@ -47,7 +43,13 @@ Our predictions and the enrichment of data sets that we have utilised make our p
 
 Our product would scale well due to the fact that we have a number of Robust APIs available and in spite of stubbed data, we would be perfectly comfortable using a time-series based approach for streaming data. 
 
+<!--DOCTYPE html>
+<html>
+<title>Fintech Webapp</title>
+
+<xmp theme="united" style="display:none;">
+	
 </xmp>
 
 <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-</html>
+</html>-->
